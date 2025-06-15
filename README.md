@@ -1,7 +1,7 @@
 # 100DaysPython
 A repo to record my 100 Days Python learning journey
 
-Day1  
+Day1✅  
 Day2  
 Day3  
 Day4  
